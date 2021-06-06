@@ -1,4 +1,11 @@
-# Course to compare 
- - callback functions 
- - promises 
- - async-await 
+# async topics
+
+- callback functions
+- promises
+- async-await
+
+# scope topics
+
+- scopes
+- closures
+- iife
